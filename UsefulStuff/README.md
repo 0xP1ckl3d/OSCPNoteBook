@@ -142,15 +142,16 @@ On Attack machine we can download:
 In Kali (SETTING UP ENVIRONMENT):
 ```bash
 cd /var/www/html
-sudo nano  upload.php:
+sudo nano  upload.php
+```
 ```php
-		<?php
-		$uploaddir = '/current/directory/path';
+<?php
+$uploaddir = '/current/directory/path';
 		
-		$uploadfile = $uploaddir . $_FILES['file']['name'];
+$uploadfile = $uploaddir . $_FILES['file']['name'];
 		
-		move_uploaded_file($_FILES['file']['tmp_name'], $uploadfile)
-		?>
+move_uploaded_file($_FILES['file']['tmp_name'], $uploadfile)
+?>
 ```
 ```bash
 sudo mkdir /var/www/uploads
