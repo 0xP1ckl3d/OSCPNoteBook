@@ -6,7 +6,7 @@ Welcome to my OSCPNoteBook, a collection of personal notes, one-liners, tools, a
 
 ## Table of Contents
 
-- [Useful Everyday tools & Techniques](#UsefulStuff/README.md)
+- [Useful Everyday tools & Techniques](UsefulStuff/README.md)
 - [Enumeration Techniques](Enumeration/README.md)
 - [Exploitation Techniques](Exploitation/README.md)
 - [Password Attacks](Password/README.md)
