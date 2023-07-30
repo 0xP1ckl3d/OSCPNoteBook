@@ -65,7 +65,7 @@ sudo proxychains sudo nmap -sCTV -T4 10.11.1.220 -v -O -p 80,21,139,445`
 
 # HTTP
 * ports 80,443,8080,9090, etc.
-[Pentesting Web](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web)
+* [Pentesting Web](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web)
 ## Identify Web Technologies
 ```
 whatweb -a 1 http://10.10.10.10 #Stealth 
@@ -346,8 +346,7 @@ crackmapexec smb 10.1.1.68 -u "steph" -p /usr/share/wordlists/rockyou.txt
 crackmapexec ssh 10.1.1.68 -u users.txt -p /usr/share/wordlists/rockyou.txt
 ```
 
-Topic 8: SNMP
--------------
+# SNMP
 * UDP Port 161
 ## Enumerate SNMP
 ```
