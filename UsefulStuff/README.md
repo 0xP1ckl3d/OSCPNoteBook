@@ -216,9 +216,9 @@ base64 -d output.txt > output-file
 
 ## Shells
 Different methods to obtain and upgrade shells, including reverse shells, bind shells, and more.
-[Generate reverse shell one-liners](https://revshells.com)
-[PayloadsAllTheThings Reverse Shell cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
-[msfvenom cheatsheet](https://infinitelogins.com/2020/01/25/msfvenom-reverse-shell-payload-cheatsheet/)
+* [Generate reverse shell one-liners](https://revshells.com)
+* [PayloadsAllTheThings Reverse Shell cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+* [msfvenom cheatsheet](https://infinitelogins.com/2020/01/25/msfvenom-reverse-shell-payload-cheatsheet/)
 ### MSFVENOM
 Example usage:
 ```bash
