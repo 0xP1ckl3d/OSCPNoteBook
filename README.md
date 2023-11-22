@@ -1,5 +1,7 @@
 # OSCPNoteBook 📓
 
+# UNDER CONSTRUCTION 🚧
+
 Welcome to my OSCPNoteBook, a collection of personal notes, one-liners, tools, and techniques I gathered throughout my OSCP journey in 2022/2023.
 
 > 🚫 **Disclaimer**: This notebook does not contain any content from the official OSCP course PDF, nor does it have spoilers for any exam or lab machines. It's purely a reflection of my personal experience and the knowledge I've acquired. Please be aware that the content might be outdated or might have changed if you're referring to this after January 2023.
